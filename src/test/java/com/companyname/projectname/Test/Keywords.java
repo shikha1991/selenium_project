@@ -25,6 +25,7 @@ public class Keywords extends Resources{
 		driver.get(webElement);		
 		
 		System.out.println("https://github.com/shikha1991/selenium_project.git");
+		System.out.println("https://github.com/shikha1991/selenium_project.gitPPPPPPPPPPPPPPPPPPPPP");
 		return "Pass";
 	}
 
