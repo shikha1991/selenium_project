@@ -27,7 +27,17 @@ public class Keywords extends Resources{
 		System.out.println("https://github.com/shikha1991/selenium_project.git");
 		System.out.println("https://github.com/shikha1991/selenium_project.gitPPPPPPPPPPPPPPPPPPPPP");
 		System.out.println("https://github.com/shikha1991/selenium_project.gitPPPPPPPPPPPPPPPPPPPPP");
+
 		System.out.println("mod 4");
+
+
+
+		System.out.println("mod 100");
+
+
+		
+
+
 		return "Pass";
 	}
 
